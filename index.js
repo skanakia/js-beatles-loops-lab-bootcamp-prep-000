@@ -5,3 +5,7 @@ function theBeatlesPlay(arr1, arr2) {
   }
   return newarray
 }
+
+function johnLennonFacts(arr) {
+  while (i < 0)
+}
