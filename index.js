@@ -7,11 +7,16 @@ function theBeatlesPlay(arr1, arr2) {
 }
 
 function johnLennonFacts(arr) {
-  var newarray = []
+  var newarray = [];
   let i = 0
   while (i < arr.length) {
     newarray.push("${arr}!!!")
     i++
   }
   return newarray
+}
+
+function iLoveTheBeatles(n) {
+  var newarray = [];
+  
 }
